@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw06.LocationSensorTest
+Test: testMultipleObservers() took 20 milli sec(s)
+Test: testLocationUpdate() took 0 milli sec(s)
+Test: testRemoveObserver() took 1 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 30 milli sec(s)
+------------- Standard Output ---------------
+TrackApp: Location - Latitude: 12.23, Longitude: 17.06
+TrackApp: Location - Latitude: 12.23, Longitude: 17.06
+TrackApp: Location - Latitude: 42.36, Longitude: -71.06
+------------- ---------------- ---------------

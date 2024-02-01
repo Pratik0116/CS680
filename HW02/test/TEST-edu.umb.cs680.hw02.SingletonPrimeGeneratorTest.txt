@@ -1,0 +1,13 @@
+Testcase: edu.umb.cs680.hw02.SingletonPrimeGeneratorTest
+Test: verifyNotNull() took 6 milli sec(s)
+Test: verifyNotSame() took 0 milli sec(s)
+Test: verifyInput1() took 2 milli sec(s)
+Test: verifyInput2() took 0 milli sec(s)
+Test: verifyInput3() took 0 milli sec(s)
+Test: verifyExpectedOutput1() took 0 milli sec(s)
+Test: verifyExpectedOutput2() took 0 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 15 milli sec(s)
+------------- Standard Output ---------------
+java.util.InputMismatchException: Wrong input values: -10 to 10
+java.util.InputMismatchException: Wrong input values: 100 to 1
+------------- ---------------- ---------------

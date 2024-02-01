@@ -1,0 +1,17 @@
+Online Shopping Cart App with State Design Pattern
+
+This Java application simulates an online shopping cart. The code incorporates the State Design Pattern, which allows the cart to transition between different states (Empty, Active, In Checkout, and Ordered) based on user actions.
+
+How the State Design Pattern is Implemented:
+
+The ShoppingCart class serves as the context for the state pattern.
+The ShoppingCartState interface defines the contract for different states of the cart.
+Concrete state classes (EmptyCartState, ActiveCartState, InCheckoutState, and OrderedState) implement specific behaviors for each state.
+The ShoppingCart class delegates state-specific tasks to the current state object.
+
+State Transitions:
+
+Empty Cart State: When the cart is first created.
+Active Cart State: After adding items to the cart.
+In Checkout State: After proceeding to checkout.
+Ordered State: After confirming the order.

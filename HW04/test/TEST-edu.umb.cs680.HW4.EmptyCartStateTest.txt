@@ -1,0 +1,17 @@
+Testcase: edu.umb.cs680.HW4.EmptyCartStateTest
+Test: testStateAfterRemovingAllItems() took 0 milli sec(s)
+Test: testStateAfterRemovingOneItem() took 1 milli sec(s)
+Test: testEmptyStateAfterAddingItem() took 0 milli sec(s)
+Test: testInitialState() took 0 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 3 milli sec(s)
+------------- Standard Output ---------------
+Added Watch to the cart.
+Added Shoes to the cart.
+Removed Shoes from the cart.
+Cart is now empty.
+Added Watch to the cart.
+Added Shoes to the cart.
+Removed Shoes from the cart.
+Added Watch to the cart.
+edu.umb.cs680.HW4.EmptyCartState@7004e3d
+------------- ---------------- ---------------
